@@ -1,0 +1,10 @@
+{
+  "name": "jenkins-demo-pipeline",
+  "version": "1.0.0",
+  "description": "Simple Node.js project for Jenkins pipeline demo",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "student",
+  "license": "MIT"
+}
